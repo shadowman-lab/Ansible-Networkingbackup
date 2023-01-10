@@ -1,9 +1,0 @@
-collections:
-
-  - name: vyos.vyos
-
-  - name: cisco.ios
-
-  - name: arista.eos
-
-  - name: ansible.netcommon

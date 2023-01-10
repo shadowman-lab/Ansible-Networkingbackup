@@ -1,7 +1,0 @@
----
-- name: Update Cisco User Password
-  cisco.ios.ios_user:
-    name: "{{ user }}"
-    configured_password: "{{ new_password }}"
-    update_password: always
-    state: present

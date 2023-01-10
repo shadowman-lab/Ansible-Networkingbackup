@@ -1,7 +1,0 @@
----
-- name: Manage IOS Interface
-  hosts: all
-  gather_facts: false
-
-  roles:
-    - network_interface_config

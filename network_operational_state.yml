@@ -1,7 +1,0 @@
----
-- name: Perform Admin State Check
-  hosts: os_cisco
-  gather_facts: false
-
-  roles:
-    - network_operational_state

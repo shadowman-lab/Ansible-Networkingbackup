@@ -1,6 +1,0 @@
-- name: Device Restore
-  hosts: os_cisco
-  gather_facts: false
-
-  roles:
-    - network_restore

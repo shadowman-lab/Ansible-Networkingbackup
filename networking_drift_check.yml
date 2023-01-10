@@ -1,8 +1,0 @@
----
-- name: Drift Check using Stored Files
-  hosts: all
-  gather_facts: false
-  strategy: free
-
-  roles:
-    - network_base_vars
